@@ -112,6 +112,7 @@ def format_student(first_name, last_name, student_id):
 #     Schedule for Maria:
 #       - Python
 #       - Circuits
+#       - Technical Writing
 #
 # Run the file and compare what prints to what it should print.
 #
